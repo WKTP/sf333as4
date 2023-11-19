@@ -14,12 +14,14 @@ https://youtu.be/mxeAyDKfZI0
 
 
 DOWNLOAD
+
 https://docs.flutter.dev/get-started/install/windows
 
 
 ![Screenshot (131)](https://github.com/WKTP/sf333as4/assets/78637896/ccbbab22-9d63-449e-ba1a-e5a8da89cc82)
 
 COPY PATH TO ENV
+
 แตกไฟล์เสร็จแล้วเข้าไปก็อป path จาก xxx\xxx\xxx\flutter\bin เช่น D:\FLUTTER\flutter_windows_3.16.0-stable\flutter\bin
 
 พิมพ์ env ใน search bar แล้ว 
