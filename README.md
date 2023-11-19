@@ -7,16 +7,16 @@ demo run
 https://youtu.be/mxeAyDKfZI0
 
 
-
-
-
-
-
+----------------------------------------------------------------
+----------------------------------------------------------------
 
 DOWNLOAD
 
 https://docs.flutter.dev/get-started/install/windows
 
+
+----------------------------------------------------------------
+----------------------------------------------------------------
 
 ![Screenshot (131)](https://github.com/WKTP/sf333as4/assets/78637896/ccbbab22-9d63-449e-ba1a-e5a8da89cc82)
 
@@ -28,6 +28,8 @@ COPY PATH TO ENV
 
 edit the system environment variable > environment variable > Path > new > paste path จากบรรทัด5 ที่ก็อปมา แล้ว ok > ok > apply > ok
 
+----------------------------------------------------------------
+----------------------------------------------------------------
 
 IN VSCODE THINGS
 
