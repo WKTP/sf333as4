@@ -30,6 +30,7 @@ edit the system environment variable > environment variable > Path > new > paste
 
 
 IN VSCODE THINGS
+
 โหลด flutter extension ใน VSCode
 ctrl + shift + p แล้วสร้าง flutter project
 ก็อป code ใน main.dart ไปวาง
