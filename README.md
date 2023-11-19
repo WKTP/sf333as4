@@ -32,6 +32,9 @@ edit the system environment variable > environment variable > Path > new > paste
 IN VSCODE THINGS
 
 โหลด flutter extension ใน VSCode
+
 ctrl + shift + p แล้วสร้าง flutter project
+
 ก็อป code ใน main.dart ไปวาง
+
 พิมพ์ flutter run ใน terminal แล้วเือก chrome เป็น device ที่ใช้รัน
