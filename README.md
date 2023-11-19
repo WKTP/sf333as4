@@ -14,7 +14,7 @@ https://youtu.be/mxeAyDKfZI0
 
 
 DOWNLOAD
-โหลด flutter https://docs.flutter.dev/get-started/install/windows
+https://docs.flutter.dev/get-started/install/windows
 
 
 ![Screenshot (131)](https://github.com/WKTP/sf333as4/assets/78637896/ccbbab22-9d63-449e-ba1a-e5a8da89cc82)
