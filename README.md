@@ -22,7 +22,7 @@ https://docs.flutter.dev/get-started/install/windows
 
 COPY PATH TO ENV
 
-แตกไฟล์เสร็จแล้วเข้าไปก็อป path จาก xxx\xxx\xxx\flutter\bin เช่น D:\FLUTTER\flutter_windows_3.16.0-stable\flutter\bin
+แตกไฟล์เสร็จแล้วเข้าไปก็อป path จาก xxx\xxx\xxx\flutter\bin เช่น D:\flutter_windows_3.16.0-stable\flutter\bin
 
 พิมพ์ env ใน search bar แล้ว 
 
